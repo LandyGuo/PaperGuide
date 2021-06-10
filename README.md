@@ -10,5 +10,5 @@
    - 所有可以获取的数据放一起做预训练(COCO/Visual Genome/Conceptual Captions ) 
    - 在视频预训练的应用: 视频预训练也是在 Kinetics上预训练模型，然后针对视频抽取特征，抽取特征的知识都开源于Kinectics上，可以把视频预训练也变成端到端pipeline, 这样就不用抽取特征
 
-# transformer同时做视觉和多模态任务:
+# Transformer同时做视觉和多模态任务
 - UniT: Multimodal Multitask Learning with a Unified Transformer: https://arxiv.org/abs/2102.10772
