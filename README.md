@@ -11,9 +11,13 @@
     - 在视频预训练的应用: 视频预训练也是在 Kinetics上预训练模型，然后针对视频抽取特征，抽取特征的知识都开源于Kinectics上，可以把视频预训练也变成端到端pipeline, 这样就不用抽取特征
   
 - CLIP: https://github.com/openai/CLIP
-  - 解决: 图文多模态检索 和 few shot的问题 
+  - 解决: 图文多模态检索 和 few shot的问题
+
+- VisTransformer: End-to-End Video Instance Segmentation with Transformers
+  - Transformer在视频实例分割中的应用 
 
 # Transformer同时做视觉和多模态任务
 - UniT: Multimodal Multitask Learning with a Unified Transformer: https://arxiv.org/abs/2102.10772
+
 
 
