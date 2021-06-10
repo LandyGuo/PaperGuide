@@ -13,7 +13,7 @@
 - CLIP: https://github.com/openai/CLIP
   - 解决: 图文多模态检索 和 few shot的问题
 
-- VisTransformer: End-to-End Video Instance Segmentation with Transformers
+- End-to-End Video Instance Segmentation with Transformers:https://arxiv.org/abs/2011.14503
   - Transformer在视频实例分割中的应用 
 
 # Transformer同时做视觉和多模态任务
