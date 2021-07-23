@@ -22,7 +22,7 @@
 # 视频预训练
 - Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling
   - 架构和attrim-mmbt非常类似
-  - 用离散采样的video-clip 
+  - 用离散采样的video-clip, 用图片特征抽取代替视频特征抽取 
 
 # Transformer同时做视觉和多模态任务
 - UniT: Multimodal Multitask Learning with a Unified Transformer: https://arxiv.org/abs/2102.10772
