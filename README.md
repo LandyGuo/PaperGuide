@@ -16,6 +16,14 @@
 - End-to-End Video Instance Segmentation with Transformers:https://arxiv.org/abs/2011.14503
   - Transformer在视频实例分割中的应用 
 
+- TAP: Text-Aware Pre-training for Text-VQA and Text-Caption
+  - 输入: image, roi, ocr 模态，可以作为roi_model的参考
+
+# 视频预训练
+- Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling
+  - 架构和attrim-mmbt非常类似
+  - 用离散采样的video-clip 
+
 # Transformer同时做视觉和多模态任务
 - UniT: Multimodal Multitask Learning with a Unified Transformer: https://arxiv.org/abs/2102.10772
 
