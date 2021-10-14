@@ -23,9 +23,15 @@
 - Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling
   - 架构和attrim-mmbt非常类似
   - 用离散采样的video-clip, 用图片特征抽取代替视频特征抽取 
+- Video Transformer Network
+  - 单独设计一个时序模块transformer，用于学习视频时间序列 
+- VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text
+  - 直接从视频像素进行学习
 
 # Transformer同时做视觉和多模态任务
 - UniT: Multimodal Multitask Learning with a Unified Transformer: https://arxiv.org/abs/2102.10772
 
-
+# 文档预训练
+- DocFormer: End-to-End Transformer for Document Understanding
+  - 增加一个新的图像重建预训练任务
 
